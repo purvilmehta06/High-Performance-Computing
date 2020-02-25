@@ -1,0 +1,2 @@
+# High-Performance-Computing-
+This repository contains lab work of High Performance Computing. This course is offered at DA-IICT in 6th semester (3rd Year). The main purpose of this course is to get maximum throughput from any system. Depending upon the cache size, processor and using multi threading via open-mp, we are analyzing the performance, its efficiency, speedup, throughput of any given code. How to parallelized any given serial code and how to use spatial or temporal locality in order to achieve best computing performance is the goal for this course. 
