@@ -25,16 +25,17 @@ For Example, lets assume we want to run "trapezoidal_critical.c" from the Lab_2 
 Note: All reqruired files must be in same folder called Script.
 
 # Hierarchy
-Script
-   all_codes
-      201701073-201701074-trapezoidal_critical
-         serial_measurement.c
-         parallel_measurement.c
-   collect_data_without_perf.py
-   main_script_without_perf.py
-   maps.py
-   README.md
-   run_script_without_perf.sh
-   txt_to_csv.py
-   llncs.clc
-   
+<pre>
+Script  
+   all_codes  
+      201701073-201701074-trapezoidal_critical  
+         serial_measurement.c  
+         parallel_measurement.c  
+   collect_data_without_perf.py  
+   main_script_without_perf.py  
+   maps.py  
+   README.md  
+   run_script_without_perf.sh  
+   txt_to_csv.py  
+   llncs.clc  
+</pre>
