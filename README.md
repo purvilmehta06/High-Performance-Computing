@@ -15,7 +15,7 @@ To run the bash script successfully, place your code_file with the name given in
 
 Note : your logic should be lies within the */write your code here*/ in the "parallel_measurement" and "serial_measurement" file.Though sample file is uploaded here which you can easily refer. 
 
-For Example, lets assume we want to run "trapezoidal_critical.c" from the Lab_2 then we have to follow the above step.
+For Example, lets assume we want to run "trapezoidal_critical.c" from the Lab_2 then we have to follow the below steps.
 1) Open maps.py and find the problem_list and approaches that we want. In this case it will be trapezoidal and critical.
 2) Change the name of the file from "trapezoidal_critical.c" to "parallel_measurement.c" and create create serial file for the same code by    yourself (without openmp tag and parallelization) as "serial_measurement.c".
 3) Place this two file under a folder called "201701073-201701074-[probelm_list]_[approaches]".
